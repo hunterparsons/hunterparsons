@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hunter Parsons</h1>
 <h3 align="center">Nature-Loving CS Major</h3>
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, Operating Systems**
+[comment]: <> (- 🌱 I’m currently learning **Data Structures, Algorithms, Operating Systems**)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hunterparsons/projects](https://github.com/hunterparsons/projects)
 
