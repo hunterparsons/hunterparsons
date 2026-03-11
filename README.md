@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **hunterpparsons@gmail.com**
 
-- 📄 Know about my experiences <a href="https://mailmissouri-my.sharepoint.com/:b:/g/personal/hp3bv_umsystem_edu/ERbqdVDorZtArMGQM8-9H5UBnuY9r8IONmKDFAsbAOnkUg?e=Ja2mVk" target ="blank">Resume</a>
-
 - ⚡ Fun fact **I'm good at forestry**
 
 <h3 align="left">Connect with me:</h3>
